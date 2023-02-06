@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Shaka Rover</title>
+    <link>https://ShakaRover.github.io/en/tags/</link>
+    <description>Recent content in Tags on Shaka Rover</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Feb 2022 01:08:21 +0800</lastBuildDate><atom:link href="https://ShakaRover.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cmake</title>
+      <link>https://ShakaRover.github.io/en/tags/cmake/</link>
+      <pubDate>Fri, 25 Feb 2022 01:08:21 +0800</pubDate>
+      
+      <guid>https://ShakaRover.github.io/en/tags/cmake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>compile</title>
+      <link>https://ShakaRover.github.io/en/tags/compile/</link>
+      <pubDate>Fri, 25 Feb 2022 01:08:21 +0800</pubDate>
+      
+      <guid>https://ShakaRover.github.io/en/tags/compile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ndk</title>
+      <link>https://ShakaRover.github.io/en/tags/ndk/</link>
+      <pubDate>Fri, 25 Feb 2022 01:08:21 +0800</pubDate>
+      
+      <guid>https://ShakaRover.github.io/en/tags/ndk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JetbrainsIdesCrack</title>
+      <link>https://ShakaRover.github.io/en/tags/jetbrainsidescrack/</link>
+      <pubDate>Mon, 23 Mar 2020 23:52:25 +0800</pubDate>
+      
+      <guid>https://ShakaRover.github.io/en/tags/jetbrainsidescrack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>links</title>
+      <link>https://ShakaRover.github.io/en/tags/links/</link>
+      <pubDate>Mon, 23 Mar 2020 23:05:02 +0800</pubDate>
+      
+      <guid>https://ShakaRover.github.io/en/tags/links/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>https://ShakaRover.github.io/en/tags/first/</link>
+      <pubDate>Tue, 21 Jan 2020 22:31:32 +0800</pubDate>
+      
+      <guid>https://ShakaRover.github.io/en/tags/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://ShakaRover.github.io/en/tags/about/</link>
+      <pubDate>Fri, 17 Jan 2020 00:26:41 +0800</pubDate>
+      
+      <guid>https://ShakaRover.github.io/en/tags/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
